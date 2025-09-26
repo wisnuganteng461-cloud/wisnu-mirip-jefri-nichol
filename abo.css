@@ -1,0 +1,23 @@
+/* About Section */
+.about {
+  padding: 60px 10%;
+  background: #f0f4ff;
+}
+
+.about-text {
+  max-width: 700px;
+  margin: auto;
+  text-align: center;
+}
+
+.about-text h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.about-text p {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #444;
+}
